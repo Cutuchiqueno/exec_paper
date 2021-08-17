@@ -1,0 +1,10 @@
+name: vectorian-jupyter
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.7
+  - faiss==1.7.0
+  - pip
+  - pip:
+      - vectorian==0.8.4
