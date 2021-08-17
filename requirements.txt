@@ -1,3 +1,2 @@
-python == 3.7
 vectorian == 0.8.4
 faiss == 1.7.0
